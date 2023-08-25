@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+#logo_header{
+    width: 80px;
+    margin: 10px;
+}
+
+#logo_footer{
+    width: 30px;
+    margin: 10px;
+}
+
+#titulo{
+    display:table-cell; 
+    vertical-align:middle
+}
+
+.nav-link{
+    color: white;
+    transition: 1s;
+}
+
+.nav-link:hover{
+    color: yellow;
+}
